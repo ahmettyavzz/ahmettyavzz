@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Yavuz</h1>
 <h3 align="center">Java Developer</h3>
-
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:ahmethamdiyavuzz@gmail.com">ahmethamdiyavuzz@gmail.com</a></strong></li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmethyavuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmethyavuz/" height="30" width="40" /></a></p>
